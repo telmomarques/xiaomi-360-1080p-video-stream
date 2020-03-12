@@ -1,3 +1,8 @@
+# WARNING: Deprecated!
+This is no longer maintained, check [rtsp-server](https://github.com/telmomarques/x360h1080p-rtsp-server) submodule instead.
+
+This repo will not me deleted only for archival purposes.
+
 # xiaomi-360-1080p-video-stream
 This a submodule of [xiaomi-360-1080p-hacks](https://github.com/telmomarques/xiaomi-360-1080p-hacks). You may want to go there instead.
 
